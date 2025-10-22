@@ -3,10 +3,10 @@
 
 ## **第一步：注册币安账号**
 1、访问币安官网注册链接：在浏览器中输入 https://www.binance.com 访问币安交易所的官方网站。建议总是直接通过官方网站进行
-<a href = "https://www.binance.com/zh-CN/square/post/8444102048321">币安注册</a>
+**币安注册：[https://www.binance.com/join?ref=114789569](https://www.binance.com/join?ref=114789569)**
 访问，以避免钓鱼网站的风险。
 
-<a href = "https://accounts.binance.com/register?ref=HCN121JK&&milespHR0BHM6Ly9e0a7rcuYmluYW5jZS5jb260vemgtQ04vZnV0dXJlcy9yZWYY29kZT1tYXNpd2Vp">>>币安官网注册链接请戳这里<<</a>
+**币安注册：[https://www.binance.com/join?ref=114789569](https://www.binance.com/join?ref=114789569)**
 
 
 2、创建账户：点击网站上的“立即注册”按钮。您可以选择使用电子邮箱或手机号码注册。输入您的邮箱或手机号，设置一个强密码。密码应包含字母、数字及特殊字符，以增加账户的安全性。
@@ -15,7 +15,7 @@
 
 4、完成身份验证：为了遵守金融法规，币安要求用户完成身份验证（KYC - 知识你的客户）。您需要提供姓名、身份证号码以及上传身份证的正反面照片和一张手持身份证的自拍照。身份验证过程可能需要几小时到几天。
 身份认证通过后，您的
-<a href = "https://www.binance.com/zh-CN/square/post/8431143928729">币安交易所注册</a>
+**币安注册：[https://www.binance.com/join?ref=114789569](https://www.binance.com/join?ref=114789569)**
 就已完成。
 
 
@@ -38,7 +38,7 @@
 2、选择交易对：在交易页面，您可以选择您想购买的加密货币。例如，如果您想购买比特币，可以选择BTC/CNY或BTC/USDT等交易对。
 
 您的
-<a href = "https://www.binance.com/zh-CN/square/post/8444102048321">币安账户注册</a>
+**币安注册：[https://www.binance.com/join?ref=114789569](https://www.binance.com/join?ref=114789569)**
 完成后，您可以通过下载手机APP，在手机上进行买币等操作。
 
 本文链接：https://github.com/tianyakk/binance_reg_1
